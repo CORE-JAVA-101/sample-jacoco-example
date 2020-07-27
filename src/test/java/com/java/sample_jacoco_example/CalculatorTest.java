@@ -19,7 +19,7 @@ public class CalculatorTest {
 		assertEquals(6, cal.sum(3, 2));
 	}
 
-	// @Test // uncommen this @Test line to make jacoco 100%.
+	 @Test // uncommen this @Test line to make jacoco 100%.
 	// jacoco has an html file:
 	// file:///D:/workspace/programs/workbench/rabindra/sample-jacoco-example/target/site/jacoco/index.html
 	public void diffTest() {
