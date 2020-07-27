@@ -16,7 +16,7 @@ public class CalculatorTest {
 
 	@Test
 	public void sumTest() {
-		assertEquals(5, cal.sum(3, 2));
+		assertEquals(6, cal.sum(3, 2));
 	}
 
 	// @Test // uncommen this @Test line to make jacoco 100%.
